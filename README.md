@@ -9,4 +9,4 @@ vamos a replicar el modelo de desarrollo de software
 |val1  |val2  |
 
 ### Hola chicos, la nueva versión está muy hot :fire:
-### se ha corregido el bug!!!
+### ¡Se ha corregido el bug!
